@@ -10,7 +10,7 @@ This repository highlights projects I’ve worked on to practice, learn, and sho
 
 * 💡 Passionate about solving problems through data.
 * 📊 Skilled in data cleaning, analysis, and visualization.
-* 🛠️ Tools I work with: **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Tableau/Power BI**.
+* 🛠️ Tools I work with:  Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Tableau/Power BI**.
 * 🌱 Always learning and expanding my skills in analytics and business intelligence.
 
 ---
